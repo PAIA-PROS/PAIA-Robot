@@ -8,11 +8,11 @@ Pre-built installers of latest release can be downloaded from the links below.
 
 ### Windows 64-bit
 
-[![](https://img.shields.io/badge/EXE%20Installer-1.3.1-blue)](https://github.com/PAIA-PROS/PAIA-Robot/releases/download/1.3.1/PAIA.Robot-1.3.1.Setup.exe)
+[![](https://img.shields.io/badge/EXE%20Installer-2.0.0-blue)](https://github.com/PAIA-PROS/PAIA-Robot/releases/download/2.0.0/PAIA.Robot-2.0.0.Setup.exe)
 
 ### macOS 64-bit (Apple Silicon)
 
-[![](https://img.shields.io/badge/DMG%20Installer-1.3.1-red)](https://github.com/PAIA-PROS/PAIA-Robot/releases/download/1.3.1/PAIA.Robot-1.3.1-arm64.dmg)
+[![](https://img.shields.io/badge/DMG%20Installer-2.0.0-red)](https://github.com/PAIA-PROS/PAIA-Robot/releases/download/2.0.0/PAIA.Robot-2.0.0-arm64.dmg)
 
 ## License
 
