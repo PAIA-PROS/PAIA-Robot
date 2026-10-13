@@ -13,3 +13,9 @@ Pre-built installers of latest release can be downloaded from the links below.
 ### macOS 64-bit (Apple Silicon)
 
 [![](https://img.shields.io/badge/DMG%20Installer-1.3.1-red)](https://github.com/PAIA-PROS/PAIA-Robot/releases/download/1.3.1/PAIA.Robot-1.3.1-arm64.dmg)
+
+## License
+
+PAIA Robot is free to use and redistribute for personal, non-commercial purposes. See the [License Agreement](LICENSE.md) ([中文版](LICENSE-zh.md)) for details.
+
+PAIA Robot includes open-source components that are licensed under their own terms. See [Third-Party Notices](THIRD-PARTY-NOTICES.md).
